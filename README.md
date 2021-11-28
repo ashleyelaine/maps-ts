@@ -1,14 +1,18 @@
 # maps-ts
-Google Maps app built with Typescript
+
+Basic web application that randomly generates a User and a Company, then displays the location of each on a Google Map
 
 ## Objectives
-- Create a working application that displays a User and Company on a Google map
-- Use Typescript to explore how classes and interfaces can be utilized
+
+- Explore how classes and interfaces can be utilized effectively in Typescript
+- Better understand design patters of Typescript to write more reusable code
 
 ## Requirements
-1. Typescript: 
+
+1. Typescript:
 2. Node:
-3. Parcel: 
+3. Parcel:
 4. Google Maps API
+5. Faker
 
 ## Setup
