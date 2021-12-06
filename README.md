@@ -5,14 +5,17 @@ Basic web application that randomly generates a User and a Company, then display
 ## Objectives
 
 - Explore how classes and interfaces can be utilized effectively in Typescript
-- Better understand design patters of Typescript to write more reusable code
+- Better understand design patterns of Typescript to write more reusable code
 
 ## Requirements
 
-1. Typescript:
-2. Node:
-3. Parcel:
-4. Google Maps API
-5. Faker
+- Typescript
+- Node
+- Parcel
+- Google Maps API
+- Faker
 
 ## Setup
+
+1. Download code or copy repo
+2. Run `parcel index.html` in the root folder
